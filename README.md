@@ -61,29 +61,3 @@ If you'd like to see more details about implementation and exactly what Activ8 d
 
 - [Project Overview](PROJECT.md)
 
-## Team
-
-<table>
-<tbody>
-    <tr>
-        <td align="center" valign="top">
-            <a href="https://github.com/tristanphan">
-            <img src="https://avatars.githubusercontent.com/u/10486660" width="100px;"/>
-            <br />
-            <b>Tristan Phan</b>
-        </td>
-        <td align="center" valign="top">
-            <a href="https://github.com/jenniq1461">
-            <img src="https://avatars.githubusercontent.com/u/147354257" width="100px;"/>
-            <br />
-            <b>Jennifer Quach</b>
-        </td>
-        <td align="center" valign="top">
-            <a href="https://github.com/v74c63t">
-            <img src="https://avatars.githubusercontent.com/u/78942001" width="100px;"/>
-            <br />
-            <b>Vanessa Tang</b>
-        </td>
-    </tr>
-</tbody>
-</table>
